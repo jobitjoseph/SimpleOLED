@@ -1,0 +1,58 @@
+{
+    "name": "SimpleOLED",
+    "version": "1.0.0",
+    "description": "Lightweight SSD1306 OLED library. Supports text rendering, graphics drawing, bitmap images, and multiple display sizes.",
+    "keywords": [
+        "display",
+        "oled",
+        "ssd1306",
+        "graphics",
+        "i2c",
+        "wire",
+        "text",
+        "bitmap"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jobitjoseph/SimpleOLED.git"
+    },
+    "authors": [
+        {
+            "name": "Jobit Joseph",
+            "email": "jobitjoseph1@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/jobitjoseph/SimpleOLED",
+    "dependencies": [
+        {
+            "name": "Wire",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": [
+        "arduino"
+    ],
+    "platforms": [
+        "atmelavr",
+        "espressif8266",
+        "espressif32",
+        "ststm32",
+        "atmelsam"
+    ],
+    "headers": [
+        "SimpleOLED.h"
+    ],
+    "examples": [
+        "examples/*/*.ino"
+    ],
+    "export": {
+        "exclude": [
+            "tests",
+            "docs",
+            "*.md",
+            "*.txt"
+        ]
+    }
+}
