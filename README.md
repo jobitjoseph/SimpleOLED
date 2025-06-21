@@ -1,7 +1,7 @@
 # SimpleOLED Library
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platforms](https://img.shields.io/badge/Platforms-ESP32%20%7C%20ESP8266%20%7C%20Arduino%20Uno%20R4%20WiFi%20%7C%20RPi%20Pico%20W%20%7C%20Arduino-green)
-![Version](https://img.shields.io/badge/Version-1.0.2-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
 
 A lightweight, feature-rich Arduino library for SSD1306 OLED displays that uses only the Wire library. Perfect for projects requiring minimal memory usage and no external dependencies.
 
