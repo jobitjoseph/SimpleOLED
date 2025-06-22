@@ -137,6 +137,8 @@ MIT License - Feel free to use in personal and commercial projects.
 **Jobit Joseph** 
 
 ## 🔄 Version History
+- **v1.0.1** - Current release
+- Bug Fix
 - **v1.0.0** - Initial release
 
 ---
