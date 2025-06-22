@@ -1,6 +1,6 @@
 {
     "name": "SimpleOLED",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Lightweight SSD1306 OLED library. Supports text rendering, graphics drawing, bitmap images, and multiple display sizes.",
     "keywords": [
         "display",
