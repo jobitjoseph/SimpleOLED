@@ -27,7 +27,6 @@
     "homepage": "https://github.com/jobitjoseph/SimpleOLED",
     "dependencies": [
         {
-            "name": "Wire",
             "frameworks": "arduino"
         }
     ],
