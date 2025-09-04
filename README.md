@@ -136,7 +136,7 @@ SimpleOLED display(0x3D, 128, 64);
 
 MIT License - Feel free to use in personal and commercial projects.
 
-**Copyright (C) 2025 Jobit Joseph, Semicon Media Pvt Ltd (Circuit Digest)**
+**Copyright (C) 2025 Jobit Joseph
 
 ## 👨‍💻 Author
 
