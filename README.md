@@ -5,6 +5,12 @@
 
 A lightweight, feature-rich Arduino library for SSD1306 OLED displays that uses only the Wire library. Perfect for projects requiring minimal memory usage and no external dependencies.
 
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/jobitjoseph">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
+  </a>
+</p>
+
 ## Features
 
 - ✅ **Wire Library Only** - No heavy graphics libraries required
